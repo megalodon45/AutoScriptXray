@@ -1,0 +1,2 @@
+# AutoScriptXray
+tes sc
